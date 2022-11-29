@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.zxz.myStarter.service.RecordServiceImpl,\
+  com.zxz.myStarter.service.RecordServiceImpl2,\
+  com.zxz.myStarter.service.PropertiesServiceImpl
+org.springframework.context.ApplicationContextInitializer=\
+  com.zxz.myStarter.service.HouseServiceImpl
